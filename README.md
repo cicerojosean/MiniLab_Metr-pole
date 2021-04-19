@@ -1,2 +1,2 @@
-# MiniLab_Metr-pole
+# MiniLab_Metropole
 Projeto Mestrado - MiniLab Metróple
